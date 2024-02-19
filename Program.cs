@@ -3,23 +3,23 @@
 using System.Numerics;
 
 int opcion = 0;
-string[] cedula = new string[2];
-string[] nombre = new string[2];
-string[] telefono = new string[2];
-string[] tipoSangre = new string[2];
-string[] direccion = new string[2];
-int[] fechaNacimient = new int[2];
-int[] fn=new int[2];
-int[] consulta=new int[2];
-string [] contador= new string[2];
+string[] cedula = new string[10];
+string[] nombre = new string[10];
+string[] telefono = new string[10];
+string[] tipoSangre = new string[10];
+string[] direccion = new string[10];
+int[] fechaNacimient = new int[10];
+int[] fn=new int[10];
+int[] consulta=new int[10];
+string [] contador= new string[10];
 int total = 0;
 string edades ="";
 int tiempo = 0;
 int num = 0;
 // Catalogo de medicamento
-int[] codigoMedicamento = new int[2];
-string[] nombreMedicamento = new string[2];
-int[] cantidad = new int[2];
+int[] codigoMedicamento = new int[10];
+string[] nombreMedicamento = new string[10];
+int[] cantidad = new int[10];
 DateTime fechaNacimiento;
 
 
