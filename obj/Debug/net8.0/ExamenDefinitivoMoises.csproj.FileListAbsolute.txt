@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\bin\Debug\net8.0\ExamenDefinitivoMoises.exe
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\bin\Debug\net8.0\ExamenDefinitivoMoises.deps.json
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\bin\Debug\net8.0\ExamenDefinitivoMoises.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\bin\Debug\net8.0\ExamenDefinitivoMoises.dll
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\bin\Debug\net8.0\ExamenDefinitivoMoises.pdb
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.dll
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\refint\ExamenDefinitivoMoises.dll
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.pdb
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ExamenDefinitivoMoises.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ExamenDefinitivoMoises\ExamenDefinitivoMoises\obj\Debug\net8.0\ref\ExamenDefinitivoMoises.dll
